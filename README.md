@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Vladyslav
 
-I'm a self-taught full stack software engineer passionate about building elegant, user-focused apps. I my favourite tools and technologies lately are: TypeScript, Tailwind, Threejs, Figma.
+I'm a self-taught full stack software engineer passionate about building elegant, user-focused apps.
 
-🚀 Currently working at: **Ideon Technologies as a Senior Software Developer**  
+🛠️ My favourite tools and technologies lately are: [TypeScript](https://www.typescriptlang.org/), [React](https://react.dev/), [Tailwind CSS](https://tailwindcss.com/), [Three.js](https://threejs.org/), [Figma](https://www.figma.com/), and [Python](https://www.python.org/) 🐍.
+🚀 Currently working at: **[Ideon Technologies](https://ideon.ai/) as a Senior Software Developer**  
 🧠 Learning more about: **WebGPU & advanced browser APIs**  
 📬 Read my blog: [digitalcanvasjourney.com](https://www.digitalcanvasjourney.com/)  
 📂 Code snippets for my blog posts live here:
